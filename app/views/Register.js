@@ -21,17 +21,17 @@ export class Register extends React.Component{
     }
 
     registerAccount = ()=>{
-        if(!this.props.username){
+        if( !this.state.username){
             Alert.alert('Please enter a username');
-        } else if(this.props.password != this.props.passwordConfirm){
+        } else if(this.state.password != this.state.passwordConfirm){
             Alert.alert('Passswords do not match');
         }else{
-            AsyncStorage.getItem(this.props.username,(err,result)=>{
+            AsyncStorage.getItem(this.state.username,(err,result)=>{
                 if(result!=null){
-                    Alert.alert(`${this.props.username} already exsits`);
+                    Alert.alert(`${this.state.username} already exsits`);
                 }else{
-                    AsyncStorage.setItem(this.props.username, this.props.password,(err, result)=>{
-                        Alert.alert(`${this.props.username} account created`);
+                    AsyncStorage.setItem(this.state.username, this.state.password,(err, result)=>{
+                        Alert.alert(`${this.state.username} account created`);
                         this.props.navigation.navigate('HomeRT');
                     });
                 }
