@@ -3,7 +3,7 @@ import { Home } from './app/views/Home.js';
 import { Contact } from './app/views/Contact.js';
 import { Video } from './app/views/Video.js';
 import { VideoDetail } from './app/views/VideoDetail.js';
-
+import { Register } from './app/views/Register.js'; 
 import { StackNavigator } from 'react-navigation';
 
 const MyRoutes = StackNavigator({
@@ -19,6 +19,9 @@ const MyRoutes = StackNavigator({
   VideoDetailRT:{
     screen:VideoDetail
   },
+  RegisterRT:{
+    screen:Register
+  }
 },
   {
     initialRouteName:'HomeRT'
