@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e09e78da5997e9ca24030dd43d2d1ccd/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a078f58d8ca3762e3ca5f79fcf4c6e6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/973e02bc3a7c2e73c45f552fdd4ad46e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/66ad24260dd2db25c0bfc0a8548cb86e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/25ecc17875f6b661794d21fa738f6574/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4247507f94eb7fe6e46d855e94314a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1a9651389ef50ee784c6193f99896558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/10e3752d21aaa8f0ec8c21b35a964120/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/449b5a900c4d445044077cca8acafe1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2dc7f0a4f989f1ad317a25e7bd276d99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/263394731edbf8a9a83b6a3ed41a6b65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7bf713b03ba78b3448325a1995325bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f221676bcd83dac091d0f5a03a5d7589/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4fd0c675170e0bca74c52478886d88a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9eeb5efc62878bdbf8d03c2b27c86c08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/550d8d80b367f3aac8ad5b0888b533dc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7934c607d7c7216729a9f14886201560/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67e50f379df727ed1d35facb184ff8fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d5f6cf4d42ade165b1dd9150c51a687/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f4957b77355ac40823811af9921fc16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/89e5064fa6cd5b6bcc731b9547475091/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1200343c4e5ab126becd7c3de2d0a651/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48504cb7c721994a41def33077c07f95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af1939878c594c58c0a6fcc7ced41fed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b6bf90c6aca99775397af3b21945cbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6279f844d6b2617eec55a02179da5bc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b52e5d948127394557b3f6a016e07c7e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4f4e819feea2fdefd52ac7fdd55e8e7a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d4015f0c11721167ea20fe5db6064852/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3b20b5a6093fa53b13165a1e2e0da15e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ec046b2ca7545fd2dd6caf9d39dd3e58/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7dcdf0571efa31beabbd19eb3272b274/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/16e290a2643f3966c8801389e7ca5b9d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:2:3-22
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e09e78da5997e9ca24030dd43d2d1ccd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e09e78da5997e9ca24030dd43d2d1ccd/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/550d8d80b367f3aac8ad5b0888b533dc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/550d8d80b367f3aac8ad5b0888b533dc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7dcdf0571efa31beabbd19eb3272b274/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7dcdf0571efa31beabbd19eb3272b274/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.globo.MainActivity
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e09e78da5997e9ca24030dd43d2d1ccd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/e09e78da5997e9ca24030dd43d2d1ccd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a078f58d8ca3762e3ca5f79fcf4c6e6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a078f58d8ca3762e3ca5f79fcf4c6e6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/973e02bc3a7c2e73c45f552fdd4ad46e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/973e02bc3a7c2e73c45f552fdd4ad46e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/66ad24260dd2db25c0bfc0a8548cb86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/66ad24260dd2db25c0bfc0a8548cb86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/25ecc17875f6b661794d21fa738f6574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/25ecc17875f6b661794d21fa738f6574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4247507f94eb7fe6e46d855e94314a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b4247507f94eb7fe6e46d855e94314a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1a9651389ef50ee784c6193f99896558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1a9651389ef50ee784c6193f99896558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/10e3752d21aaa8f0ec8c21b35a964120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/10e3752d21aaa8f0ec8c21b35a964120/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/449b5a900c4d445044077cca8acafe1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/449b5a900c4d445044077cca8acafe1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2dc7f0a4f989f1ad317a25e7bd276d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2dc7f0a4f989f1ad317a25e7bd276d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/263394731edbf8a9a83b6a3ed41a6b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/263394731edbf8a9a83b6a3ed41a6b65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7bf713b03ba78b3448325a1995325bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7bf713b03ba78b3448325a1995325bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f221676bcd83dac091d0f5a03a5d7589/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f221676bcd83dac091d0f5a03a5d7589/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4fd0c675170e0bca74c52478886d88a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4fd0c675170e0bca74c52478886d88a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9eeb5efc62878bdbf8d03c2b27c86c08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9eeb5efc62878bdbf8d03c2b27c86c08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d39bf0c95c862235556680ec2eb754f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/550d8d80b367f3aac8ad5b0888b533dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/550d8d80b367f3aac8ad5b0888b533dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7934c607d7c7216729a9f14886201560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7934c607d7c7216729a9f14886201560/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67e50f379df727ed1d35facb184ff8fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/67e50f379df727ed1d35facb184ff8fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d5f6cf4d42ade165b1dd9150c51a687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7d5f6cf4d42ade165b1dd9150c51a687/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f4957b77355ac40823811af9921fc16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f4957b77355ac40823811af9921fc16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/89e5064fa6cd5b6bcc731b9547475091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/89e5064fa6cd5b6bcc731b9547475091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1200343c4e5ab126becd7c3de2d0a651/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1200343c4e5ab126becd7c3de2d0a651/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48504cb7c721994a41def33077c07f95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48504cb7c721994a41def33077c07f95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af1939878c594c58c0a6fcc7ced41fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/af1939878c594c58c0a6fcc7ced41fed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b6bf90c6aca99775397af3b21945cbe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4b6bf90c6aca99775397af3b21945cbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6279f844d6b2617eec55a02179da5bc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6279f844d6b2617eec55a02179da5bc3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b52e5d948127394557b3f6a016e07c7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b52e5d948127394557b3f6a016e07c7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4f4e819feea2fdefd52ac7fdd55e8e7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4f4e819feea2fdefd52ac7fdd55e8e7a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d4015f0c11721167ea20fe5db6064852/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/d4015f0c11721167ea20fe5db6064852/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3b20b5a6093fa53b13165a1e2e0da15e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3b20b5a6093fa53b13165a1e2e0da15e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ec046b2ca7545fd2dd6caf9d39dd3e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ec046b2ca7545fd2dd6caf9d39dd3e58/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7dcdf0571efa31beabbd19eb3272b274/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7dcdf0571efa31beabbd19eb3272b274/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/16e290a2643f3966c8801389e7ca5b9d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/synergenteclab/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/16e290a2643f3966c8801389e7ca5b9d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/synergenteclab/Documents/BabyIO/react-projects/globo/android/app/src/debug/AndroidManifest.xml:5:22-75
